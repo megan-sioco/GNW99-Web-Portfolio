@@ -1,0 +1,67 @@
+body {
+  background-color: floralwhite;
+  font-family: helvetica;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fffcf5), to(#fff2cf)); background: -moz-linear-gradient(top, #fffcf5, #fff2cf); filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#fffcf5', endColorstr='#fff2cf');
+  margin-top: 25px;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-bottom: 100px;
+  /*width: 1024px; margin: auto;*/
+  /*border-width: 20px; 
+  -moz-border-image: url(Images/10.jpeg) 30 30 stretch;
+  -webkit-border-image: url(Images/10.jpeg) 30 30 stretch;*/
+}
+
+h1 {
+  color: #822f2c;
+  font-family: cursive;
+  text-shadow: 4px 4px 8px lightgray;
+}
+
+h2 {
+  color: saddlebrown;
+  font-family: fantasy;
+  text-shadow: 1px 1px 3px antiquewhite;
+}
+
+p {
+  color: saddlebrown;
+}
+
+a {
+  color: saddlebrown;
+}
+
+table {
+  width: 100%;
+  font-family: helvetica;
+  color: saddlebrown;
+  /*margin-left: auto;*/
+  margin-right: 200px;
+}
+
+td {
+  height: 35px;
+  vertical-align: middle;
+}
+
+#about table {
+  width: 500px;
+}
+
+#me p {
+  text-align: justify;
+}
+
+#software {
+  text-align: center;
+  vertical-align: middle;
+}
+
+#software table {
+  width: 300px;
+}
+
+#experience td {
+  height: 20px;
+}
